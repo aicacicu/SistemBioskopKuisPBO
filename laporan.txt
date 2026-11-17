@@ -1,0 +1,8 @@
+========================================
+       LAPORAN SISTEM BIOSKOP
+========================================
+Nama Bioskop: Cinema XXI
+
+DAFTAR ID PENONTON:
+ACT-01
+ACT-02
